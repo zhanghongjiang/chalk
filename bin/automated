@@ -4,6 +4,7 @@
 
 # Exit if any subcommand fails.
 # set -e
+echo "Hi"
 
 # Variables
 ORIGIN_URL=`git config --get remote.origin.url`
