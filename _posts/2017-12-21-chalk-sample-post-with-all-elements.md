@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Chalk sample post with all elements"
-description: "这是一个测试."
+description: "这是一个测试.你觉得好吗"
 thumb_image: "documentation/sample-image.jpg"
 tags: [design, jekyll]
 ---
