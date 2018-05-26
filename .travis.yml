@@ -11,6 +11,6 @@ after_success:
 env:
   global:
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
-    - USERNAME: zhanghongjiang
-    - EMAIL: mytiger@gmail.com
+  - USERNAME: zhanghongjiang
+  - EMAIL: mytiger@gmail.com
 
