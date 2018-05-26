@@ -18,7 +18,7 @@ script: bundle exec htmlproofer ./_site --only-4xx --allow-hash-href --assume-ex
 secure: b353629ca3611848cf32740356af4be5ecb7c6c2
 
 after_success:
-- test $TRAVIS_PULL_REQUEST == "false" && test $TRAVIS_BRANCH == "master" && "./bin/automated"
+- test $TRAVIS_BRANCH == "master" && "./bin/automated"
 
 env:
   global:
