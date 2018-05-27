@@ -18,7 +18,7 @@ tags: [Facebook, Reddit]
 > 这是一个引用。你怎么说呢？
 我不知道怎么表达
 
-![](documentation/sample-image@2x.jpg)
+![例子](assets/images/documentation/sample-image@2x.jpg)
 
 # 也是
 
